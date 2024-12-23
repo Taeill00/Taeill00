@@ -1,4 +1,4 @@
-## Unity Studying (July/2024~ )  👋
+## Unity Studying (Nov/2024~ )  👋
 
 <!--
 **Taeill00/Taeill00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
